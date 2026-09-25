@@ -22,7 +22,7 @@
             scale: 1,
             chance: 85,
             collisionLength: 220,
-            collisionWidth: 45,
+            collisionWidth: 100,
             deckHeight: 15
         },
 
@@ -31,7 +31,7 @@
             scale: 1,
             chance: 10,
             collisionLength: 330,
-            collisionWidth: 75,
+            collisionWidth: 1000,
             deckHeight: 22
         },
 
@@ -40,7 +40,7 @@
             scale: 1,
             chance: 2.5,
             collisionLength: 155,
-            collisionWidth: 25,
+            collisionWidth: 400,
             deckHeight: 18
         },
 
@@ -49,7 +49,7 @@
             scale: 1,
             chance: 2.5,
             collisionLength: 180,
-            collisionWidth: 28,
+            collisionWidth: 250,
             deckHeight: 20
         }
 
