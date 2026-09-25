@@ -7,7 +7,7 @@
     const globe = scene.globe;
 
     const DISPLAY_DISTANCE = 5000;
-    const SHIP_SPACING = 5000;
+    const SHIP_SPACING = 10000;
 
     const SPEED_KMH = 80;
     const SPEED_MPS = SPEED_KMH / 3.6;
