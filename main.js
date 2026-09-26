@@ -21,33 +21,33 @@
         {
             url: "https://www.geo-fs.com/backend/aircraft/repository/CMV%20Probability_267286_5009/prob1.glb",
             scale: 1,
-            chance: 85,
+            chance: 65,
             collisionLength: 220,
-            collisionWidth: 45,
+            collisionWidth: 200,
             deckHeight: 12.3
         },
         {
             url: "https://www.geo-fs.com/models/objects/carrier/carrier.gltf",
             scale: 1,
-            chance: 10,
-            collisionLength: 330,
+            chance: 15,
+            collisionLength: 1000,
             collisionWidth: 800,
             deckHeight: 22
         },
         {
             url: "https://www.geo-fs.com/backend/aircraft/repository/t052_267286_5719/ddg052d1.glb",
             scale: 1,
-            chance: 2.5,
-            collisionLength: 155,
-            collisionWidth: 25,
+            chance: 10,
+            collisionLength: 800,
+            collisionWidth: 400,
             deckHeight: 18
         },
         {
             url: "https://www.geo-fs.com/backend/aircraft/repository/t055_267286_5682/055-109.glb",
             scale: 1,
-            chance: 2.5,
-            collisionLength: 180,
-            collisionWidth: 28,
+            chance: 10,
+            collisionLength: 800,
+            collisionWidth: 100,
             deckHeight: 20
         }
     ];
